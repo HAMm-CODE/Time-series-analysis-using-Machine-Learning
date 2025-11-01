@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Aug  6 10:14:14 2024
+
+@author: turunenj
+"""
+#https://scikit-learn.org/stable/auto_examples/svm/plot_iris_svc.html#sphx-glr-auto-examples-svm-plot-iris-svc-py
 
 import matplotlib.pyplot as plt
 from matplotlib import colormaps
